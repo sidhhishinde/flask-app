@@ -1,4 +1,3 @@
 # flask-app
-# flask-app
 Simple flask app to be run on ECS
 added a webhook
